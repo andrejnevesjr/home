@@ -8,7 +8,7 @@ Just playing around to refresh some skills and host this countdown on Github
 
 # Live Page
 
-https://andrejnevesjr.github.io/homecoming/
+https://andrejnevesjr.github.io/home/
 
 ---
 
