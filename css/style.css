@@ -172,7 +172,7 @@ html {
 
 }
 
-@media (min-width: 409px) and (max-width: 486px) {
+@media (min-width: 300px) and (max-width: 486px) {
     .balloon {
         width: 4rem;
         height: 5rem;
